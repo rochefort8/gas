@@ -1,0 +1,86 @@
+<html>
+<head>
+
+  <style type="text/css">
+  p.number img {
+   position: absolute;
+   clip: rect(80px, 80px, 160px, 0px);
+   margin-left: 80px;
+   margin-top: 96px;
+}
+    p.number1 img {
+   position: absolute;
+   clip: rect(80px, 80px, 160px, 0px);
+   margin-left: 160px;
+   margin-top: 96px;
+}
+    p.number2 img {
+   position: absolute;
+   clip: rect(100px, 80px, 180px, 0px);
+   margin-left: 240px;
+   margin-top: 76px;
+}
+
+p.number3 img {
+   position: absolute;
+   clip: rect(160px, 80px, 240px, 0px);
+   margin-left: 320px;
+   margin-top: 16px;
+}
+
+p.number4 img {
+   position: absolute;
+   clip: rect(160px, 80px, 240px, 0px);
+   margin-left: 420px;
+   margin-top: 16px;
+}
+p.number5 img {
+   position: absolute;
+   clip: rect(160px, 80px, 240px, 0px);
+   margin-left: 500px;
+   margin-top: 16px;
+}
+p.number6 img {
+   position: absolute;
+   clip: rect(160px, 80px, 240px, 0px);
+   margin-left: 580px;
+   margin-top: 16px;
+}
+
+  </style>
+</head>
+
+  <body>  
+<p class="number">
+   <img src="0-1.jpg" width=76>
+</p>
+
+<p class="number1">
+   <img src="0-1.jpg" width=76>
+</p>
+
+<p class="number2">
+   <img src="0-1.jpg" width=76>
+</p>
+
+<p class="number3">
+   <img src="0-1.jpg" width=76>
+</p>
+
+<p class="number4">
+   <img src="0-1.jpg" width=76>
+</p>
+
+<p class="number5">
+   <img src="0-1.jpg" width=76>
+</p>
+
+<p class="number6">
+   <img src="0-1.jpg" width=76>
+</p>
+
+<p class="panel">
+   <img src="gas.png" >
+</p>
+</body>
+</html>
