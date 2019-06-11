@@ -1,44 +1,54 @@
- p.number img {
+
+p.number0 img {
    position: absolute;
-   clip: rect(80px, 80px, 160px, 0px);
-   margin-left: 80px;
-   margin-top: 96px;
+   width:50px;
+   clip: rect(100px, 50px, 150px, 0px);
+   margin-left: 50px;
+   margin-top: 21px;
 }
-    p.number1 img {
+
+p.number1 img {
    position: absolute;
-   clip: rect(80px, 80px, 160px, 0px);
-   margin-left: 160px;
-   margin-top: 96px;
+   width:50px;
+   clip: rect(100px, 50px, 150px, 0px);
+   margin-left: 101px;
+   margin-top: 21px;
 }
-    p.number2 img {
+
+p.number2 img {
    position: absolute;
-   clip: rect(100px, 80px, 180px, 0px);
-   margin-left: 240px;
-   margin-top: 76px;
+   width:50px;
+   clip: rect(0px, 50px, 50px, 0px);
+   margin-left: 152px;
+   margin-top: 121px;
 }
 
 p.number3 img {
    position: absolute;
-   clip: rect(240px, 80px, 320px, 0px);
-   margin-left: 320px;
-   margin-top: -64px;
+   width:50px;
+   clip: rect(0px, 50px, 50px, 0px);
+   margin-left: 203px;
+   margin-top: 121px;
 }
 
 p.number4 img {
    position: absolute;
-   clip: rect(160px, 80px, 240px, 0px);
-   margin-left: 420px;
-   margin-top: 16px;
+   width: 50px;
+   clip: rect(0px, 50px, 50px, 0px);
+   margin-left: 263px;
+   margin-top: 121px;
 }
 p.number5 img {
    position: absolute;
-   clip: rect(160px, 80px, 240px, 0px);
-   margin-left: 500px;
-   margin-top: 16px;
+   width:50px;
+   clip: rect(0px, 50px, 50px, 0px);
+   margin-left: 314px;
+   margin-top: 121px;
 }
 p.number6 img {
    position: absolute;
-   clip: rect(160px, 80px, 240px, 0px);
-   margin-left: 580px;
-   margin-top: 16px;
+   width:50px;
+   clip: rect(0px, 50px, 50px, 0px);
+   margin-left: 365px;
+   margin-top: 121px;
 }
