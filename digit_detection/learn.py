@@ -1,10 +1,12 @@
-
+#!/usr/bin/python
+# encoding: utf-8 -*-
+# encoding=utf8
 import glob
 import numpy as np
 import cv2
 import os
 
-from sklearn.model_selection import train_test_split
+#from sklearn.model_selection import train_test_split
 from sklearn import datasets, svm ,metrics
 from sklearn.metrics import accuracy_score
  
